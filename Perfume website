@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>luxurious and branded perfume</title>
+  <style>
+    body {
+      font-family: 'Arial', sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #FFB6C1;
+    }
+
+    header {
+      background-color: #333;
+      color: #fff;
+      text-align: center;
+      padding: 1em;
+    }
+
+    section {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-around;
+      padding: 2em;
+    }
+
+    . perfume-item {
+      background-color: #fff;
+      border-radius: 8px;
+      box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+      margin: 2em;
+      padding: 2em;
+      text-align: center;
+      width: 250px;
+    }
+
+    . perfume-item img {
+      max-width: 200%;
+      border-radius: 8px;
+    }
+
+    . perfume-name {
+      font-size: 1.2em;
+      margin: 0.5em 0;
+    }
+
+    . perfume-price {
+      font-size: 1.1em;
+      color: #28a745;
+      margin: 0.5em 0;
+    }
+
+    . perfume-discount {
+      color: #dc3545;
+      margin: 0.5em 0;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>luxurious and branded perfume</h1>
+  </header>
+
+  <section>
+    <div class="perfume-item">
+      <img src="https://drive.google.com/file/d/1dmC-_YueE5gGostaf-S_8b1qSeUaxk3J/view?usp=drivesdk" width="250" height="200">
+      <div class="perfume name">SAUVAGEEAU DE PARFUM</div>
+      <div class="perfume-price">Rs18000.90</div>
+      <div class="perfume-discount">10% off on your first order</div>
+    </div>
+    <div class="perfume-item">
+      <img src="https://drive.google.com/file/d/1e2uNDdRymq6a5D-9wd_Pj073gtt70QmU/view?usp=drivesdk" width="250" height="200">
+      <div class="perfume-name">creed aventus</div>
+      <div class="perfume-price">Rs50000</div>
+      <div class="perfume-discount">15% off </div>
+    </div> 
+    <div class="perfume-item"> 
+      <img src="https://drive.google.com/file/d/1eXC9TcP0d0L6nN5sQQ-0tfpxF-xMg1Bl/view?usp=drivesdk" width="250" height="200">
+      <div class="perfume-name">OMBRE NOMADE
+LOUIS VUITTON</div>
+      <div class="perfume-price">Rs26000</div>
+      <div class="perfume-discount">11% off</div>
+    </div> 
+    </div> 
+  </section>
+</body>
+</html>
+
+<!---
+meet200590/meet200590 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
